@@ -1,4 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/13ua0slxkikuunx0?svg=true)](https://ci.appveyor.com/project/OksanaBannova/forms-steps)
 
+[GitHub Pages](https://oksanabannova.github.io/forms-steps/)
 
 Учёт тренировок
 ===
